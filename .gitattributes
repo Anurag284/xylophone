@@ -1,4 +1,7 @@
 *.html linguist-detectable=false
+*.c++ linguist-detectable=false
+*.CMake linguist-detectable=false
+*.Swift linguist-detectable=false
 static/* linguist-vendored
 # Auto detect text files and perform LF normalization
 * text=auto
