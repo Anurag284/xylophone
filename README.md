@@ -1,7 +1,7 @@
 # xylophone
 
 A new Flutter project.
-
+Created a Simple Xylophone app with basic sound locally using the dart package:audioplayer. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
