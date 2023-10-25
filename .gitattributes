@@ -1,7 +1,3 @@
-*.html linguist-detectable=false
-*.cpp linguist-detectable=false
-*.CMake linguist-detectable=false
-*.Swift linguist-detectable=false
-static/* linguist-vendored
+*.* linguist-language=Flutter
 # Auto detect text files and perform LF normalization
 * text=auto
